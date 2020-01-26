@@ -2,7 +2,6 @@
 layout: post
 title:  "Dr. Jekyll & Mr. Hyde"
 date:   2020-01-26 15:18:11 +0530
-categories: intro
 ---
 I'm pretty amazed at how blogging has changed over the years. 
 
