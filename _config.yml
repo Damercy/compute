@@ -22,7 +22,7 @@ title: C0MPUTE
 email: adhikaridayamoy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about technology that I like,use and will use. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/compute" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Damercysiyzarc
 github_username:  Damercy
