@@ -12,7 +12,7 @@ I can write so much about Jekyll, but I think the official docs and jekyll websi
 ## Installing Jekyll on Windows
 If you're done getting excited about Jekyll, let's get into installing it so that you can write cool stuff and post it for free on the internet!
 
-#### Prerequisites 
+#### Prerequisites
 1. Ruby version 2.4.0+
 2. RubyGems
 3. GCC and Make
@@ -36,7 +36,7 @@ Finally, check if Jekyll has been properly installed by checking it's version by
 - Install `Ruby+DevKit 2.6.X (x64)`.
 - Check the option `ridk install` during last step of installation wizard. Hit **ENTER** to install everything.
 - On command prompt, type: `gem install jekyll bundler`.
-- Check your installation skills by typing: `jekyll -v` on the command prompt. 
+- Check your installation skills by typing: `jekyll -v` on the command prompt.
 
 
 
