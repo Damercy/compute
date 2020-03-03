@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Not all variables are the same (in C)
-date: 2020-02-02 22:55:00 +530
+date: 2020-02-02 22:55:00 +0530
 permalink: /:title
 ---
 ![img](/compute/images/storage-classes.jpg "Variables in a nutshell")  

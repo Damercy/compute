@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "How to install Jekyll on Windows"
-date: 2020-01-31 20:25:00 +530
+date: 2020-01-31 20:25:00 +0530
+permalink: /:title
 ---
 Jekyll is a lightweight, high performance, blog-ready tool that is highly useful to convert markdown files (and others) into static websites.
 

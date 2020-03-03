@@ -38,7 +38,7 @@
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
-      <span class="post-meta">{{ post.date }}</span>
+      <span class="post-meta">{{ post.date | date: '%B %d, %Y' }}</span>
       <h3>
           <a class="post-link" href="/compute{{ post.url }}">{{ post.title }}</a>
       </h3>
@@ -51,7 +51,7 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">C0MPUTE</h2>
+    <h2 class="footer-heading">CONTACT</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
