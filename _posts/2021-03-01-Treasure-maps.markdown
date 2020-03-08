@@ -31,7 +31,7 @@ You run a value(key) through the hash function which spits out an index that's i
 
 Now all of this might seem unnatural and non-intuitive, for I had felt the same when I learnt about hashing the first time, but if you read more in-depth about hash tables, you'll be convinced. There's several concepts to discuss like how to decide a hash function, the different methods of hashing, ways to resolve collision in hash tables, salting in hashtables etc. But alas, you've got only so much patience and I, so little knowledge.
 
-Now, here's an instance of how _treasure_ maps are applicable in real-life/ programming. Here's a common coding problem.
+Now, here's an instance of how _treasure_5 maps are applicable in real-life/ programming. Here's a common coding problem.
 
 #### **Q: Given a string of characters, find out the frequency of each character.**
 
