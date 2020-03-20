@@ -22,7 +22,7 @@ Let's see what we did.
 
 Let's see what the [Boston dataset][kaggle-site] contains.
 
-![img](/compute/images/boston-dataset.jpg "Welcome to Boston!")
+![img](/compute/images/boston-dataset.JPG "Welcome to Boston!")
 
 The dataset has 506 rows and 14 columns. The above picture is just the first 5 rows. Ignore the extra 'Unnamed' column (rightmost) henceforth. It isn't included in the dataset.
 
@@ -31,7 +31,7 @@ The columns are known as attributes. Thus, `crim`,`zn`,`indus`,`nox` etc. are al
 
 Now let's find a quick co-relation between each of the attributes.
 
-![img](/compute/images/correlation.jpg "Relationships are all that there is.")
+![img](/compute/images/correlation.JPG "Relationships are all that there is.")
 
 Now, don't be overwhelmed! It's easy. It is.
 
@@ -47,7 +47,7 @@ If you've read it till here, please tell me you find this __cool__. Isn't it so 
 
 To finish off, let's add some color to our above matrix to help with visualization.
 
-![img](/compute/images/viz.jpg "Born-in-Sea aka Seaborn module")
+![img](/compute/images/viz.JPG "Born-in-Sea aka Seaborn module")
 
 The above matrix is _still_ the same, except there's colors (as if you couldn't see). We're interested in the __brightest__ and __darkest__ region as the brightest color (white) represents a greater correlativity while the darkest color (black) represents an inverse correlativity. You can even forget the values that are connotated in the above picture because we can easily visualize the relationships between different attributes from the colors itself! And this is _amazing_ to me. It is so, so cool!
 
