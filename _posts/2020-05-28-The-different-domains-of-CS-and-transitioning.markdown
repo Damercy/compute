@@ -13,7 +13,7 @@ I want to let you know about the different domains of Computer Science and a tho
 1. Web development 
 2. App development
 3. Machine Learning
-4. Software Engineer
+4. Software Engineering
 
 The above 4 domains broadly classify the choices a computer science engineer graduate has, at least in my head. A person has to choose any one of the above options and stick with it long enough to get a above-average grasp of the domain and hopefully land a job.
 
@@ -30,7 +30,7 @@ The only way to find out is ___to try___. Coming back on this later.
 
 ### 2. App Development
 ---
-An app developer builds mobile applciations, ios/android ecosystem based on their skillset. I suppose there's no frontend and backend in this domain as an app developer handles all of it.. much like a fullstack web developer.
+An app developer builds mobile applications, ios/android ecosystem based on their skillset. I suppose there's no frontend and backend in this domain as an app developer handles all of it.. much like a fullstack web developer.
 
 But there are distinctions between type of app developer based on languages and frameworks, OS etc.
 
@@ -63,13 +63,13 @@ Personally, I don't like ML as evident from the tone of this section I suppose. 
 
 >I mean those guys probably write C++ codes to build tensorflow cores like wtf...
 
-### 4. Software Engineer
+### 4. Software Engineering
 ---
 This is a very blurry domain in my opinion. Now up until a couple of months back I believed that a software engineer is a programmer who writes hardcore logic and code, builds system applications, manages database and OS functionalities aka very hardcore cool stuff.
 
-Little did I know that all the above 3 domains (Web dev. - App dev. - ML Engg.) are also known as software engineers. I mean yes, if you ask a person with a non-CS background, to him/her there's no distinct boundary in the above 4 domains ------ all of them are software engineers to him/her.
+Little did I know that all the above 3 domains (Web dev. - App dev. - ML Engg.) are also known as software engineering. I mean yes, if you ask a person with a non-CS background, to him/her there's no distinct boundary in the above 4 domains ------ all of them are software engineers to him/her.
 
-But in my head lied this distinction. And it hurt a little, not gonna lie.
+But in my head lied this distinction. And it hurt a little, not gonna lie, to have the boundaries cleared.
 
 I like to see myself building hardcore logic and stuff, but that would take much time for a person of my caliber (caliber: very low) and so I think I need to look at the other domains for now.
 
@@ -79,7 +79,7 @@ That the UI matters, testing is crucial and that it's mostly about `making profi
 
 Trasitioning refers to the term of changing from one domain to another.
 
-Althought I haven't yet started my journey into the real world as a developer, I will (hopefully) by next year and so before I put in all my efforts and my mind in a project that I will love, I want to make sure that it's the right one.
+Althought I haven't yet started my journey into the real world as a developer, I will (hopefully) by next year. So before I put in all my efforts and my mind in a project that I will love, I want to make sure that it's the right one.
 
 And the only way to find out is to keep on transitioning and explore all the options while there's still time. 
 
@@ -89,7 +89,7 @@ To start with, I want to build a nice website for my friend, Anurag Kumar, the b
 
 Wish me luck and thanks for making it till here!
 
-__P.S.__ This infographic pretty much shows the _real_ domains of Computer Science ( albeit it's still incomplete ), in case you were curious. Cheers!
+__P.S.__ This infographic pretty much shows the _real_ domains of Computer Science in case you were curious ( albeit it's still incomplete). Cheers!
 
 ---
 
