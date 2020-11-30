@@ -1,21 +1,23 @@
 ---
 layout: post
 title: Graphs,graphs everywhere
-date: 2020-07-08 22:57:00 +0530
+date: 2020-10-09 22:57:00 +0530
 permalink: /:title
 ---
+
 Let me begin by addressing the thing that's bugging me..
 I know it's been a `while` since I've posted. My last article ( [Javascript.js](https://damercy.github.io/compute/Javascript) ) would make you think that I started on a _js spree_ and never came back.
 
 Well, I came back. But where was I the whole time, you ask?
 
-I was _`learning`_. I was learning JS, diving into  all of the nitty-gritty features ---- IIFE's, Promises, Virtual DOM in React, maps-filters-reducers etc. I have been trying to get comfortable with AWS so that I may be able to deploy the sites (products?) efficiently.
+I was _`learning`_. I was learning JS, diving into all of the nitty-gritty features ---- IIFE's, Promises, Virtual DOM in React, maps-filters-reducers etc. I have been trying to get comfortable with AWS so that I may be able to deploy the sites (products?) efficiently.
 
 > What is efficient deployment?
 
 To me, it is when different components of a system (for example, a website) communicate with each other (the different modules) with ease, handling all the edge cases of null/undefined/form-manipulation. And do that with security in mind. The last thing I want in my production site branch is to have open ports in the EC2 instance. Hi, hacker.
 
 Now that it is out of the way, let's talk about graphs. I really like graphs because
+
 1. They sound fancy
 2. They're fancy
 3. FANCY
@@ -27,6 +29,7 @@ You see, graphs are an integral part of coding tests and I've been scared of thi
 > So how to implement a graph data structure?
 
 It's easy contrary to what the past me used to believe. There's two major ways to denote a graph in computer:-
+
 1. Adjacency matrix
 2. Adjacency list.
 
@@ -34,13 +37,14 @@ It's easy contrary to what the past me used to believe. There's two major ways t
 
 ![img](/compute/images/adm.png "What... matrix?")
 
-Let's break down this seemingly "programmatic" name. `Adjancency` __->__ `Adjacent` __->__`Side by side`, right? `Matrix` __->__ Goddammit you know what a matrix is.
+Let's break down this seemingly "programmatic" name. `Adjancency` **->** `Adjacent` **->**`Side by side`, right? `Matrix` **->** Goddammit you know what a matrix is.
 
 The idea is that the column and row labels would indicate the nodes and the connection between any two nodes (edges) will be represented by the value in the matrix. Let's see an example. Consider the following graph:-
 
 ![img](/compute/images/adm-g.png "What... matrix?")
 
 The nodes are A,B,C,D,E which are connected by edges. Right beside it is it's adjacency matrix representation.
+
 ```Java
 class AdjacencyMatrix{
     public static void main(String[] args){
@@ -74,7 +78,7 @@ class AdjacencyMatrix{
     }
 }
 ```
+
 That's how easy it is to represent a graph! The second way, using adjacency list, may seem a tad bit complex but I assure you, it's easy. Well, this post has gotten too long for your short attention span.
 
 The next post will be about how to represent a graph using adjacency list. Stay tuned!
-
