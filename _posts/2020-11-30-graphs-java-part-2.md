@@ -9,7 +9,7 @@ Last time we implemented a graph as a adjacency matrix. Let's look at the more c
 
 An adjancency list is a data structure to represent a graph as a collection of nodes. The structure is very much similar to that of a linked list (and that's because we use linked list to implement this adjacency list. **TLDR**; Linked list === Adjacency list === list, get it?)
 
-On second thoughts, an adjacency list can also be implemented as a collection of map data structure. More on maps [here]().
+On second thoughts, an adjacency list can also be implemented as a collection of map data structure. More on maps [here](https://damercy.github.io/compute/Treasure-maps).
 
 
 #### The code
