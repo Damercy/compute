@@ -83,3 +83,9 @@ Java was notoriously famous for having repetitive patterns of creating classes p
 
 That's it! It generates all the redundant toString(),hashCode(),getters & setters methods in Java data classes for you.
 
+### Anything else?
+Sure, there's so much to write on one thing specifically. Let's keep that for some other time. I hope you found this short article better than those snippets of ___10 reasons why you should learn XXX in YYY___.
+
+The [official Kotlin reference](https://kotlinlang.org/docs/reference/idioms.html) is a really handy guide for the nifty features mentioned above, and more.
+
+Thanks!
